@@ -309,3 +309,8 @@ Those are constraints to investigate, not details to design around from the outs
 ## The principle
 
 **Users shouldn't need to understand a platform's internal taxonomy before the platform can understand what they're trying to accomplish.**
+
+## Research
+
+- [Research findings](research/findings.md) — Current Instagram onboarding behavior, professional account model, evidence, constraints, and sources.
+- [Product reasoning log](research/reasoning-log.md) — Hypotheses, corrections, rejected directions, reframing, and decision process.
