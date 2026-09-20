@@ -122,7 +122,7 @@ The platform remains responsible for translating that context into whatever clas
 
 ## Proposed profile experience
 
-[PROFILE + INTENT MOCKUP]
+![Account onboarding current and proposed profile experience](assets/images/ig.png)
 
 The proposal adds intent alongside Instagram's existing profile context rather than redesigning its category taxonomy.
 
@@ -146,7 +146,7 @@ Instagram currently introduces a six-step professional setup flow after conversi
 
 If intent has already been captured, the platform can separate three things that are currently mixed together.
 
-[PROFESSIONAL ONBOARDING CURRENT VS. PROPOSED MOCKUP]
+![Professional onboarding current and proposed experience](assets/images/ig2.png)
 
 ### Your next steps
 
